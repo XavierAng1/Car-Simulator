@@ -1,1 +1,1 @@
-#1 Car Simulator
+Car Simulator
